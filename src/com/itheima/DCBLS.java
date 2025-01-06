@@ -3,7 +3,7 @@ package com.itheima;
 import java.util.Random;
 import java.util.Scanner;
 
-class Test1 {
+class DCBLS {
     public static void main(String[] args) {
         // 目标：完成双色球系统的开发。
         int[] userNumbers = userSelectNumbers();
